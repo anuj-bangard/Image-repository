@@ -1,4 +1,0 @@
-{
-    "databaseUrl" : "mongodb+srv://image:test123@image-repository.w2dks.mongodb.net/ImageRepo?retryWrites=true&w=majority",
-    "tokenKey": "winterprojectImageRepository"
-}
